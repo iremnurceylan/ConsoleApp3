@@ -6,6 +6,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
             string[] kurslar = new string[] { "Yazılım kursu", "java kursu", "pyhton kursu" };
 
             for (int i = 0; i < kurslar.Length; i++)
